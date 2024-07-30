@@ -113,6 +113,7 @@
 .form{
     display: flex;
     background-color: #DFE8E6;
+    height:927px
 }
 .form-text{
     text-align: center;    
